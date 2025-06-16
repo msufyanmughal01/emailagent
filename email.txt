@@ -1,0 +1,256 @@
+
+message sender: "daily.dev" <informer@daily.dev>
+message date: 2025-06-16 08:03:40+05:00
+message subject: SUFYAN, your personal update from daily.dev is ready
+message snippet: For you ​Jun 15, 2025 Logo It's been 5 days since your last streak You might find these articles interesting developedbyed Saying Goodbye To ESLINT and Prettier​ Read more → UIHut 🎨 Build fast with
+message plain: *******
+For you
+*******
+
+​Jun 15, 2025
+
+Logo ( https://app.daily.dev/ )
+
+It’s been 5 days since your last streak
+-----------------------------------------
+
+You might find these articles interesting
+
+( https://app.daily.dev/posts/QEtfzESE2?utm_source=notification&utm_medium=email&utm_campaign=digest )
+
+developedbyed ( https://app.daily.dev/posts/QEtfzESE2?utm_source=notification&utm_medium=email&utm_campaign=digest )
+
+Saying Goodbye To ESLINT and
+Prettier ( https://app.daily.dev/posts/QEtfzESE2?utm_source=notification&utm_medium=email&utm_campaign=digest )​
+------------------------------------------------------------------------------------------------------------------
+
+Read more → ( https://app.daily.dev/posts/QEtfzESE2?utm_source=notification&utm_medium=email&utm_campaign=digest ) ( https://app.daily.dev/posts/QEtfzESE2?utm_source=notification&utm_medium=email&utm_campaign=digest )
+
+( https://app.daily.dev/posts/QbgEKargA?utm_source=notification&utm_medium=email&utm_campaign=digest )
+
+UIHut ( https://app.daily.dev/posts/QbgEKargA?utm_source=notification&utm_medium=email&utm_campaign=digest )
+
+🎨 Build fast with beautiful, ready-made UI
+components! ( https://app.daily.dev/posts/QbgEKargA?utm_source=notification&utm_medium=email&utm_campaign=digest )​
+---------------------------------------------------------------------------------------------------------------------
+
+Read more → ( https://app.daily.dev/posts/QbgEKargA?utm_source=notification&utm_medium=email&utm_campaign=digest ) ( https://app.daily.dev/posts/QbgEKargA?utm_source=notification&utm_medium=email&utm_campaign=digest )
+
+( https://api.daily.dev/v2/c?id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPYmplY3QiOnsiaSI6IjFmODZjOGI1LWU1ODYtNGFjNy1hNmIyLThmZjdhNDllOGQwNSIsInUiOiJodHRwczovL2dldGR4LmNvbS9ndWlkZS9haS1hc3Npc3RlZC1lbmdpbmVlcmluZy8_dXRtX3NvdXJjZT1kYWlseWRldiIsImFpIjoiMGNhZDYxMDUtMjFmNS00ZTVkLWExOTAtMjM4OGU0ZjdkNDNjIiwiYyI6IjJhYTJjY2IzLTE4ZGMtNDljNS1iZTBmLTY0ZWE3ZThlN2IyOCIsImEiOiIxZWRmNzFmMC1jYTIxLTRhMTgtODFiMC0yYTA1MjI1NjFlNGYiLCJjciI6ImY2YjRhMDk3LTNhOGEtNGNkMS04OGJiLTY2MTMzOTliMWMzOSIsInQiOjE3NTAwMjg5ODZ9fQ.W-Nz7uu0K7J90JEOEjDjYtoeusqsRfzJSmqNEHWx1OA )
+
+DX · Ad ( https://api.daily.dev/v2/c?id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPYmplY3QiOnsiaSI6IjFmODZjOGI1LWU1ODYtNGFjNy1hNmIyLThmZjdhNDllOGQwNSIsInUiOiJodHRwczovL2dldGR4LmNvbS9ndWlkZS9haS1hc3Npc3RlZC1lbmdpbmVlcmluZy8_dXRtX3NvdXJjZT1kYWlseWRldiIsImFpIjoiMGNhZDYxMDUtMjFmNS00ZTVkLWExOTAtMjM4OGU0ZjdkNDNjIiwiYyI6IjJhYTJjY2IzLTE4ZGMtNDljNS1iZTBmLTY0ZWE3ZThlN2IyOCIsImEiOiIxZWRmNzFmMC1jYTIxLTRhMTgtODFiMC0yYTA1MjI1NjFlNGYiLCJjciI6ImY2YjRhMDk3LTNhOGEtNGNkMS04OGJiLTY2MTMzOTliMWMzOSIsInQiOjE3NTAwMjg5ODZ9fQ.W-Nz7uu0K7J90JEOEjDjYtoeusqsRfzJSmqNEHWx1OA )
+
+Guide to AI-Assisted Engineering: Use Cases, Prompting and Leadership Strategy ( https://api.daily.dev/v2/c?id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPYmplY3QiOnsiaSI6IjFmODZjOGI1LWU1ODYtNGFjNy1hNmIyLThmZjdhNDllOGQwNSIsInUiOiJodHRwczovL2dldGR4LmNvbS9ndWlkZS9haS1hc3Npc3RlZC1lbmdpbmVlcmluZy8_dXRtX3NvdXJjZT1kYWlseWRldiIsImFpIjoiMGNhZDYxMDUtMjFmNS00ZTVkLWExOTAtMjM4OGU0ZjdkNDNjIiwiYyI6IjJhYTJjY2IzLTE4ZGMtNDljNS1iZTBmLTY0ZWE3ZThlN2IyOCIsImEiOiIxZWRmNzFmMC1jYTIxLTRhMTgtODFiMC0yYTA1MjI1NjFlNGYiLCJjciI6ImY2YjRhMDk3LTNhOGEtNGNkMS04OGJiLTY2MTMzOTliMWMzOSIsInQiOjE3NTAwMjg5ODZ9fQ.W-Nz7uu0K7J90JEOEjDjYtoeusqsRfzJSmqNEHWx1OA )​
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Read Now ( https://api.daily.dev/v2/c?id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPYmplY3QiOnsiaSI6IjFmODZjOGI1LWU1ODYtNGFjNy1hNmIyLThmZjdhNDllOGQwNSIsInUiOiJodHRwczovL2dldGR4LmNvbS9ndWlkZS9haS1hc3Npc3RlZC1lbmdpbmVlcmluZy8_dXRtX3NvdXJjZT1kYWlseWRldiIsImFpIjoiMGNhZDYxMDUtMjFmNS00ZTVkLWExOTAtMjM4OGU0ZjdkNDNjIiwiYyI6IjJhYTJjY2IzLTE4ZGMtNDljNS1iZTBmLTY0ZWE3ZThlN2IyOCIsImEiOiIxZWRmNzFmMC1jYTIxLTRhMTgtODFiMC0yYTA1MjI1NjFlNGYiLCJjciI6ImY2YjRhMDk3LTNhOGEtNGNkMS04OGJiLTY2MTMzOTliMWMzOSIsInQiOjE3NTAwMjg5ODZ9fQ.W-Nz7uu0K7J90JEOEjDjYtoeusqsRfzJSmqNEHWx1OA ) 
+( https://api.daily.dev/v2/c?id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJPYmplY3QiOnsiaSI6IjFmODZjOGI1LWU1ODYtNGFjNy1hNmIyLThmZjdhNDllOGQwNSIsInUiOiJodHRwczovL2dldGR4LmNvbS9ndWlkZS9haS1hc3Npc3RlZC1lbmdpbmVlcmluZy8_dXRtX3NvdXJjZT1kYWlseWRldiIsImFpIjoiMGNhZDYxMDUtMjFmNS00ZTVkLWExOTAtMjM4OGU0ZjdkNDNjIiwiYyI6IjJhYTJjY2IzLTE4ZGMtNDljNS1iZTBmLTY0ZWE3ZThlN2IyOCIsImEiOiIxZWRmNzFmMC1jYTIxLTRhMTgtODFiMC0yYTA1MjI1NjFlNGYiLCJjciI6ImY2YjRhMDk3LTNhOGEtNGNkMS04OGJiLTY2MTMzOTliMWMzOSIsInQiOjE3NTAwMjg5ODZ9fQ.W-Nz7uu0K7J90JEOEjDjYtoeusqsRfzJSmqNEHWx1OA )
+
+( https://app.daily.dev/posts/2Y0FZs66K?utm_source=notification&utm_medium=email&utm_campaign=digest )
+
+Dev World ( https://app.daily.dev/posts/2Y0FZs66K?utm_source=notification&utm_medium=email&utm_campaign=digest )
+
+Build your retro library ( https://app.daily.dev/posts/2Y0FZs66K?utm_source=notification&utm_medium=email&utm_campaign=digest )​
+----------------------------------------------------------------------------------------------------------------------------------
+
+Read more → ( https://app.daily.dev/posts/2Y0FZs66K?utm_source=notification&utm_medium=email&utm_campaign=digest ) ( https://app.daily.dev/posts/2Y0FZs66K?utm_source=notification&utm_medium=email&utm_campaign=digest )
+
+( https://app.daily.dev/posts/AFzM0kegu?utm_source=notification&utm_medium=email&utm_campaign=digest )
+
+Make WordPress Core ( https://app.daily.dev/posts/AFzM0kegu?utm_source=notification&utm_medium=email&utm_campaign=digest )
+
+Introducing a new SQLite driver for WordPress –
+WordPress Playground ( https://app.daily.dev/posts/AFzM0kegu?utm_source=notification&utm_medium=email&utm_campaign=digest )​
+------------------------------------------------------------------------------------------------------------------------------
+
+Read more → ( https://app.daily.dev/posts/AFzM0kegu?utm_source=notification&utm_medium=email&utm_campaign=digest ) ( https://app.daily.dev/posts/AFzM0kegu?utm_source=notification&utm_medium=email&utm_campaign=digest )
+
+( https://app.daily.dev/posts/DdC8SoNwF?utm_source=notification&utm_medium=email&utm_campaign=digest )
+
+sphaerophoria ( https://app.daily.dev/posts/DdC8SoNwF?utm_source=notification&utm_medium=email&utm_campaign=digest )
+
+Making an HTML search widget ( https://app.daily.dev/posts/DdC8SoNwF?utm_source=notification&utm_medium=email&utm_campaign=digest )​
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Read more → ( https://app.daily.dev/posts/DdC8SoNwF?utm_source=notification&utm_medium=email&utm_campaign=digest ) ( https://app.daily.dev/posts/DdC8SoNwF?utm_source=notification&utm_medium=email&utm_campaign=digest )
+
+Fast-track your growth. Upgrade to plus ( https://app.daily.dev/plus )
+
+Try daily.dev on mobile (if you haven’t yet)
+
+( https://apps.apple.com/app/daily-dev/id6740634400 )
+daily.dev for iOS ( https://apps.apple.com/app/daily-dev/id6740634400 )
+
+( https://play.google.com/store/apps/details?id=dev.daily )
+daily.dev for Android ( https://play.google.com/store/apps/details?id=dev.daily )
+
+Explore ( https://app.daily.dev/posts )   |   Discussions ( https://app.daily.dev/discussed )   |   Tags ( https://app.daily.dev/tags )   |   Sources ( https://app.daily.dev/sources )   |   Leaderboard ( https://app.daily.dev/users )
+
+X ( https://twitter.com/dailydotdev ) Yt ( https://www.youtube.com/c/dailydev )
+Inst ( https://www.instagram.com/dailydotdev/ ) Tt ( https://www.tiktok.com/@dailydotdev )
+GitHub ( https://github.com/dailydotdev/daily )
+This email was intended for SUFYAN KHALID (mskhalid703@gmail.com)
+You can update your profile settings to change notifications ( https://app.daily.dev/account/notifications ), account details ( https://app.daily.dev/account/profile ) or unsubscribe ( http://track.customer.io/manage_subscription_preferences/RLnCCQUAAZd12ymtNAe9sX90AXMV7g== ) 
+
+( https://app.daily.dev )Daily Dev Ltd., 9 Derech HaTikva Ganei Tikva, Israel
+5591252
+
+--
+
+message sender: Canva <marketing@engage.canva.com>
+message date: 2025-06-15 20:11:36+05:00
+message subject: Make Courses a part of your team’s workflow
+message snippet: Start creating customised Courses ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿ ͏ ‌ ﻿
+message plain: 
+Start creating customised Courses
+Canva  ( https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9tplar3juom3GwdJknmjC22PbPppngtzAnRWFbgQTlXC/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t0/h001.qgebnk-nVoaFKu5cdwLlBWwlNIOQZEsl8g644dvfxao )
+Pro           Canva  
+( https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9tplar3juom3GwdJknmjC21NhPnQSi8p_0hZSq9cp1XF/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t1/h001.1Vok9jfn37o9h97VUnKDH3btBHk5gJicxowBlmxPMt0 )
+    
+( https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9jSYjQmDyWZrqxUXjHgaLPLrZ8tIb_ozLBO7iNkCjuk7u8v3ndXBmFTNN9lyll-yZHdta653Sj8BNV8u7naX-Yubqd__NfoHE1pyJSkaaiqW/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t2/h001.qz-zWrwZK-tK-e1-GZrFCOzZ_Qm0AxgOPK_MGsfXpIE )
+         
+( https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9tplar3juom3GwdJknmjC215UGL-MPYhg0qBY16Mw8aD/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t3/h001.V2CCkSZE7d8P7osdUJkn7TSsU_NxSJL4KQaUf3OeLlQ )Time&nbsp;to&nbsp;Try
+Courses
+(
+https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9koHec2e2LlCYgohCOBBuqEeUHLUQrIEy3gjwPMc8-2O6ARqFMUv2GpcPB1FWYKMf1KNdrZVQV4A8jvjwpq956c/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t4/h001.ux18HPPqr5g2iBRkTJKUDaLXp0gy7kC0XfMk_fci804
+)  (
+https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9koHec2e2LlCYgohCOBBuqEeUHLUQrIEy3gjwPMc8-2ORML2-DfZ3cte4G-TepzCE6IMGfsws-KDSGWgm42NGJI/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t5/h001.0TzlyMRpsbTyD9fMzkMRO48mxhtYgFni5lxXHPPTQuU
+)                                 PREMIUM
+DESIGN TOOL
+Make Courses a part of your team’s workflow
+From onboarding new hires to upskilling team members, you can easily create Courses that will engage your team and inspire them to learn.                  (
+https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9koHec2e2LlCYgohCOBBuqEeUHLUQrIEy3gjwPMc8-2Oufl5jcLQ6yXQYvIEUr7ysZGKB9EHGW9JB2xnhRwwTqg/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t6/h001.za17Bs8fWKrSCSgDcOCdQhdTYxuzbitbqNWxA1kx-8E
+) Learn more (
+https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9koHec2e2LlCYgohCOBBuqEeUHLUQrIEy3gjwPMc8-2OFsSsgLwbjEtFm1Wr38wnpbWbmIr79db6N-1X3hAF9eY/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t7/h001.-0ZwBezPXeYfQXwvyuGfccEWdsw_Vt7erJi_9iIOMK0
+)
+
+
+
+
+ 
+( https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9inNSLfUvwU6C00u-AIKuxKVtbQzarVrNx-najBGod3KyKb_iIThzIZ5bzj0hSEZ1Q/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t8/h001.8__Eh9GxLxRxdmx3DgDncXYHUA0rCaGfUT3oEj5lpHg )
+ 
+( https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9inNSLfUvwU6C00u-AIKuxKynd7lyhy5m-v2QHhgd0_UAX8-BN3IEeofFz7hTd9IaA/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t9/h001.O0ZxnNhvo665B31Ju452uXSRuEtqvxL6UrcpiXdn5oI )
+ 
+( https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9inNSLfUvwU6C00u-AIKuxJ0huWxsBizj11xBs5Tf8pzqiUhFoBT8ugSHwHacrEd4Q/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t10/h001.VxGABp_QXLgbYF8pDZlQ1qa_nerzwN779KS2EBCo0BY )
+ 
+( https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9inNSLfUvwU6C00u-AIKuxIwT1_78JZwhdsIcn7MZkdzKIlhe-nBnxicWNfoUaelaA/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t11/h001.V2aVZf1NSNQpW6E_hdl16ELvH1v_s20DpxL3-HAVFPI )
+ 
+( https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9inNSLfUvwU6C00u-AIKuxIgwxa6pVAlidlWdrQ6dk-Miz2WtqTVoIbCWODJZgVEsQ/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t12/h001.qVSeVlbdcSvqJXaViQoLeczxGwaN5LSmD6R4q2xHnXk )
+       app store 
+( https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9tplar3juom3GwdJknmjC20HYYjyQ4P-yGd6Ji0layo8/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t13/h001.uvEtoI1eSFRNE1_RLzq9gdd_zPlTztMddglpRLFLZEk )    google play 
+( https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9tplar3juom3GwdJknmjC202n7qetg4Ihtb7BnSj8TDE/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t14/h001.DFPR5RdPE7GVsNn0JOX1xjdYNe899_hMtlAmUW6irWI )
+
+
+
+
+Canva Pty Ltd, 110 Kippax St, NSW 2010, Australia. ABN 80 158
+929 938
+
+ 
+( https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9tplar3juom3GwdJknmjC23gXg8Kl5yG2UGbCkDBDFT6/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t15/h001.gZo_0MJZaTxnRofneX-eg8OJS7dq8kr0Y9BUp9_KM0s )
+ (
+https://l.engage.canva.com/ss/c/u001.JArFo7LeP-8OYD3Jv5wfvQo5nNUGyHE4_827Ez4zVFQc6G1BnrVsh12rUWXVadM2A7M8F-fxwAwbGdXWMCG-JMSkGolrFxYEcJHEw2HsR_FyZUkFUIbbFxWPVkTqpmO5_yMiOVdi8MpJo8v2tCekK72sfui23-LdDg2OxZ9dVKtVPRIJwRVgG1cwSbngTiMgqQFBk16ux8q-drt1AisxTyHlJdIS63mHIuxLt05E4mYLtRUMCLE2RkZ3VLaxn3D7FOTXWQvbKEn-NCZ1kKXrt9etmDObNWVcOC3NJUtT5Qjb4laxi1y7DITZzppAAsuYV-pdS8xnSmrpIj6O2zLb2BpxVHF6aRUlCA6vpv6tb75F_qsvQO0TJC7myfSOBzjhTTacqH246sNcC0Us_OXhImOK6AXnGfUXU-oHLNu2e6XsJPCXo9CYnVEix2wjMmijU7YNbQ76dpUzfmg0SlYGvMBPhJ_BsfJyyBYU1HmrOpKDZDJ0xJcQu6o04aGDESIzj1fe5uxx1MQU8wWNu_H_R-DxiigWZ2MrR8hrZZO1J4RstyNV2A_LEmAQah5mP3I-v58vLfXOV4noyFyWpnHz3WW9EQr-DZgvGpkuZBVxURGgCg1o1MDt6PIG2dyeftFHWcBTqmmUbSy4ZiiV3xGdUAsjkBd0VdSF5HPq3-acOOud_4FcAK1xRzqfNLmjulWV/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t16/h001.MZAaWvnNTZ-GKWY6U7G2m62ZtuLdDqZWjUfqldRRADM )
+
+ 
+( https://l.engage.canva.com/ss/c/u001.Note3it1gaozj0PIggVG9t1o6OOPWBTK2sz3h-0nOIbQyLvBmKKHsNPdhh_PATD20ZjDaC8LIKay2I91nE-_zmPcMGvra7SBXTfB5nGzR-Y/4hd/ZzO3vaQESvS8lbUFJY9QWQ/t17/h001.5JC3RPLmmDH9eaJJR2JoSq6974xB6OK4IeVjpoi3md4 )
+   
+
+  (
+?lid=nhs08azh1wyd )     x  (
+?lid=f2z3p161qatd )
+  (
+?lid=szurlvddxrc9 )
+instagram  ( ?lid=b0oqaacrsgcw
+)
+
+
+
+
+--
+
+message sender: AmanatWattoo <notifications@github.com>
+message date: 2025-06-15 17:11:24+05:00
+message subject: Re: [panaversity/learn-agentic-ai] Update readme.md (PR #33)
+message snippet: AmanatWattoo left a comment (panaversity/learn-agentic-ai#33) Hi On Sun, 15 Jun 2025, 3:35 pm Rehan Qasim, ***@***.***> wrote: > *rehanqasimk* left a comment (panaversity/learn-agentic-ai#33)
+message plain: AmanatWattoo left a comment (panaversity/learn-agentic-ai#33)
+
+Hi
+
+On Sun, 15 Jun 2025, 3:35 pm Rehan Qasim, ***@***.***> wrote:
+
+> *rehanqasimk* left a comment (panaversity/learn-agentic-ai#33)
+> <https://github.com/panaversity/learn-agentic-ai/pull/33#issuecomment-2973646180>
+>
+> @ziaukhan <https://github.com/ziaukhan>
+>
+> —
+> Reply to this email directly, view it on GitHub
+> <https://github.com/panaversity/learn-agentic-ai/pull/33#issuecomment-2973646180>,
+> or unsubscribe
+> <https://github.com/notifications/unsubscribe-auth/ATEEFHRMF4BJ44QT5F43F333DVEARAVCNFSM6AAAAAB7LECNY2VHI2DSMVQWIX3LMV43OSLTON2WKQ3PNVWWK3TUHMZDSNZTGY2DMMJYGA>
+> .
+> You are receiving this because you are subscribed to this thread.Message
+> ID: ***@***.***>
+>
+
+
+-- 
+Reply to this email directly or view it on GitHub:
+https://github.com/panaversity/learn-agentic-ai/pull/33#issuecomment-2973736392
+You are receiving this because you are subscribed to this thread.
+
+Message ID: <panaversity/learn-agentic-ai/pull/33/c2973736392@github.com>
+
+--
+
+message sender: Rehan Qasim <notifications@github.com>
+message date: 2025-06-15 15:36:10+05:00
+message subject: Re: [panaversity/learn-agentic-ai] Update readme.md (PR #33)
+message snippet: rehanqasimk left a comment (panaversity/learn-agentic-ai#33) @ziaukhan — Reply to this email directly, view it on GitHub, or unsubscribe. You are receiving this because you are subscribed to this
+message plain: rehanqasimk left a comment (panaversity/learn-agentic-ai#33)
+
+@ziaukhan 
+
+-- 
+Reply to this email directly or view it on GitHub:
+https://github.com/panaversity/learn-agentic-ai/pull/33#issuecomment-2973646180
+You are receiving this because you are subscribed to this thread.
+
+Message ID: <panaversity/learn-agentic-ai/pull/33/c2973646180@github.com>
+
+--
+
+message sender: Rehan Qasim <notifications@github.com>
+message date: 2025-06-15 15:35:45+05:00
+message subject: [panaversity/learn-agentic-ai] Update readme.md (PR #33)
+message snippet: removed repeatition of: Berkeley Function-Calling Leaderboard You can view, comment on, or merge this pull request online at: https://github.com/panaversity/learn-agentic-ai/pull/33 Commit Summary
+message plain: removed repeatition of:
+
+**[Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)**
+You can view, comment on, or merge this pull request online at:
+
+  https://github.com/panaversity/learn-agentic-ai/pull/33
+
+-- Commit Summary --
+
+  * Update readme.md
+
+-- File Changes --
+
+    M 02_agentic_foundations/03_generative_ai_for_beginners/01_leaderboards/readme.md (2)
+
+-- Patch Links --
+
+https://github.com/panaversity/learn-agentic-ai/pull/33.patch
+https://github.com/panaversity/learn-agentic-ai/pull/33.diff
+
+-- 
+Reply to this email directly or view it on GitHub:
+https://github.com/panaversity/learn-agentic-ai/pull/33
+You are receiving this because you are subscribed to this thread.
+
+Message ID: &lt;panaversity/learn-agentic-ai/pull/33@github.com&gt;
+
+
+--
