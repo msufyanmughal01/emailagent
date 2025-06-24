@@ -41,41 +41,12 @@ sen = Agent(
 Fagent = Agent(
     name = "frontend",
     instructions="""
-You're the orchestrator agent managing the email response flow, processing one email at a time until no emails remain:
-
-1. Call `mail_processing_agent` to fetch one unread email summary.
-   - If the response is 'No more emails', stop and return 'All emails processed'.
-
-2. If an email is retrieved:
-   - Pass the email summary to `knowledge_agent` to extract and save any important information.
-   - Pass the email summary to `greeting_agent` to generate a professional draft reply.
-
-3. Present the draft reply to the user and ask:
-   - "Do you want to tweak this draft reply? (Reply with 'yes' to provide changes, 'no' to proceed, or 'skip' to skip this email.)"
-
-4. Handle user input:
-   - If 'yes', accept the user's modified reply and store it as the final draft.
-   - If 'no', use the original draft from `greeting_agent` as the final draft.
-   - If 'skip', skip sending this email and proceed to the next email.
-
-5. If not skipped, ask the user:
-   - "Should I send this reply now? (Reply with 'yes' or 'no'.)"
-
-6. Handle sending:
-   - If 'yes', call `send_agent` to send the final reply.
-   - If 'no', skip sending and proceed to the next email.
-
-7. Repeat from step 1 until no more emails are available.
-
-Return the status of each email processed (e.g., 'Email 1 sent', 'Email 1 skipped', 'All emails processed').
-
-Note: Since this is a text-based interaction, assume user input will be provided sequentially for each prompt. Store the current email's state (e.g., draft reply, user input) temporarily to proceed correctly.
-""",
+You're the orchestrator agent""",
     model= LitellmModel(model=Model, api_key=apikey),
     tools =[
         mail.as_tool(
             tool_name="mail_processing_agent",
-            tool_description="Agent that retrieves one unread email."
+            tool_description="Agent that retrieves unread email."
         ),
         greet.as_tool(
             tool_name="greeting_agent",
@@ -90,21 +61,19 @@ Note: Since this is a text-based interaction, assume user input will be provided
             tool_description="Agent that sends the final reply after user confirmation."
         )
 
-    ]
-
-)
-@cl.on_chat_start
-async def hadle():
-    cl.user_session.set("history",[])
-    await cl.Message("hello jee....").send()
-
+    ])
 @cl.on_message
-async def main(messa:cl.Message):
-    history = cl.user_session.get("history")
-    history.append({"role":"user","content":messa.content})
-    result = await Runner.run(
-    Fagent,
-    input= history)
-    history.append({"role":"assistant","content":result.final_output})
-    cl.user_session.set("history",history)
-    await cl.Message(result.final_output).send()
+async def main(meas:cl.Message):
+    email_runner = await Runner.run(
+        Fagent,
+        f"check today's email and print the email"
+    )
+    intial_output = email_runner.final_output
+    await cl.Message(f"initial output: {intial_output}").send()
+    email_generater = Runner.run(
+        Fagent,
+        f"generate the reply for this email and print it {intial_output} also print the sender details  and this is the commands {meas.content} the user will be or be not send to you if he want to tweak the reply you generated"
+    )
+    await cl.Message(f"second output: {email_generater.final_output}").send()
+
+

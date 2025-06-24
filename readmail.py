@@ -55,9 +55,6 @@ message plain: {message.plain.strip()}
                 f.write(summery + "\n++++++++++++++\n")
                 print("Written to file")
 
-            # Mark the email as read to avoid reprocessing
-            message.mark_as_read()
-
             return summery
 
     return "No more emails"
